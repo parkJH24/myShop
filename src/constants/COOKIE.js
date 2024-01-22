@@ -1,6 +1,6 @@
 export const USER_COOKIE_OPTIONS = {
   expires: undefined,
-  // path: '/',
+  path: '/',
   domain: window.location.hostname,
 };
 
